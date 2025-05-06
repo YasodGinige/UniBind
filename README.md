@@ -293,7 +293,7 @@ If you find this repository useful, please consider giving stars ⭐ and citatio
 }
 ```
 
-## Contact
+### Contact
 
 If you have questions, suggestions, and bug reports, please email:
 ```
